@@ -1,16 +1,11 @@
-# practical_exam
+# Country Details
 
-A new Flutter project.
+Country name, capital, population, sorting country
 
-## Getting Started
+splash screen,
+provider
 
-This project is a starting point for a Flutter application.
+api calling
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# screenshot
+<img src="https://github.com/PrinceDobariya89/practical_exam/assets/104968601/e395c86e-7bca-4f65-beac-79b1b69e8b9b" width=250>
